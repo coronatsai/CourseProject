@@ -1,11 +1,11 @@
 # CS410 Course Project Documentation
 
 Overview of scripts:
-data_collection/data_scraper.py       Scrapes thread information from the subreddits that have been specified
-data_collection/data_cleaning.py      Cleans the data scraped from above and facilitates for comment scraping
-data_collection/comment_scraper.py    Scrapes the comments from the thread ids that have been specified
-data_collection/data_combine.py       Cleans the comment data and combines the clean data with clean thread data
-sentiment_analysis.py                 Performs sentiment analysis with Textblob
+1. data_collection/data_scraper.py      | Scrapes thread information from the subreddits that have been specified
+2. data_collection/data_cleaning.py     | Cleans the data scraped from above and facilitates for comment scraping
+3. data_collection/comment_scraper.py   | Scrapes the comments from the thread ids that have been specified
+4. data_collection/data_combine.py      | Cleans the comment data and combines the clean data with clean thread data
+5. sentiment_analysis.py                | Performs sentiment analysis with Textblob
 
 Refer to the section about running the reddit data scraper for more about how the data was collected, cleaned and filtered.
 Refer to the section titled 'Running the sentiment analysis' to run the script yourself. Further code documentation is included within the code comments.
