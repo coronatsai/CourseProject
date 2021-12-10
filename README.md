@@ -1,5 +1,7 @@
 # CS410 Course Project Documentation
 
+Video Link: <https://uofi.box.com/s/onwivnc6vkdipcxtfkelap3ksd19lyjb>
+
 Overview of scripts:
 1. data_collection/data_scraper.py      | Scrapes thread information from the subreddits that have been specified
 2. data_collection/data_cleaning.py     | Cleans the data scraped from above and facilitates for comment scraping
